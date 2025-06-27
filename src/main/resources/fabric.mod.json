@@ -30,9 +30,8 @@
 	],
 
 	"depends": {
-		"fabricloader": ">=0.12.0",
-		"fabric": "*",
-		"cloth-config2": "*"
+		"fabricloader": ">=0.16.14",
+		"cloth-config2": ">=19.0.147"
 	},
 	"suggests": {
 		"modmenu": "*"
